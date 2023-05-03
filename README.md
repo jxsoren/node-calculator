@@ -1,2 +1,3 @@
 # NodeCalculator2
-Just a calculator that runs in the terminal.
+
+Calculator app that runs inside of the terminal using Node.js
